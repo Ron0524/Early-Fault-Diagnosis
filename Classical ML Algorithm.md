@@ -50,3 +50,35 @@ PCA是一種可以最好地解釋數據的差異來揭示數據的內部結構�
 由於作為軸承缺陷特徵的各種特徵的靈敏度在不同的操作條件下可能會發生很大變化，
 因此PCA已證明自己是一種有效且系統的特徵選擇方案，可為分類目的手動選擇最具代表性的特徵提供指導。
 ```
+# K-Nearest Neighbors (k-NN)
+```
+The k-NN algorithm is a non-parametric method used for either classification or regression.
+k-NN serves as the core algorithm for a data mining based ceramic bearing fault classifier 
+based on acoustic signals.
+
+
+
+
+
+
+
+
+k-NN算法是用於分類或回歸的非參數方法。
+k-NN是基於聲信號的基於數據挖掘的陶瓷軸承故障分類器的核心算法。
+```
+
+# Support Vector Machines (SVM)
+```
+SVM are supervised learning models 
+that analyze data used for non-probabilistic classification or regression analysis.
+
+
+
+
+
+
+
+
+
+SVM是有監督的學習模型，可以分析用於非概率分類或回歸分析的數據。
+```
